@@ -8,14 +8,14 @@
     "stack": "container",
   "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with malvin~",
+        "description": "Put yourmalvin~Zy9QXJSa#6bw_bHHNpKspDuFym1kcEGK_w_FKVCgoyURdzCmGmhE ~",
         "value":"",
         "required": true
         
     },
       "BOT_NAME": {
-        "description": "write here your bot name.",
-        "required": true,
+        "description": "write here your bot ♪ ⋆⃝🌸𝙈𝘼𝙏𝘼𝙉𝙀𝙔:🫦🌷.",
+        "required": false,
         "value": "ᴍᴀʟᴠɪɴ xᴅ" 
         
     },
@@ -26,7 +26,7 @@
       
     },
       "MODE": {
-        "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public)",
+        "description": "Bot mode can be private, private, inbox or groups in small letters (e.g, public)",
         "value":"private",
         "required": true  
         
@@ -40,12 +40,12 @@
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "value": "263714757857"
+      "value": "252614013437"
       "required": true
       
    },
     "OWNER_NAME": {
-      "description": "Enter your name here",
+      "description": "Enter your ♪ ⋆⃝🌸𝙈𝘼𝙏𝘼𝙉𝙀𝙔:🫦🌷here",
       "value": "",
       "required": true
     }
